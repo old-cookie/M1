@@ -20,14 +20,14 @@
   "HuaRobot_M1_馬達類別.Fan|block": "風扇|腳位 %pin|速度 %value",
   "HuaRobot_M1_馬達類別.Servo|block": "舵機|腳位 %pin|角度 %value",
  
-  "HuaRobot_M1_小型車類別.RGB_Car_Big|block": "小車RGB探照燈|紅色 %value1|綠色 %value2|藍色 %value3",
-  "HuaRobot_M1_小型車類別.RGB_Car_Big2|block": "小車RGB探照燈|選擇車燈顏色 %value",
+  "HuaRobot_M1_小車類別.RGB_Car_Big|block": "小車RGB探照燈|紅色 %value1|綠色 %value2|藍色 %value3",
+  "HuaRobot_M1_小車類別.RGB_Car_Big2|block": "小車RGB探照燈|選擇車燈顏色 %value",
   "HuaRobot_M1_小車類別.Ultrasonic_Car|block": "超音波返回(cm)",
-  "HuaRobot_M1_小型車類別.RGB_Car_Program|block": "七彩流水燈",
+  "HuaRobot_M1_小車類別.RGB_Car_Program|block": "七彩流水燈",
   "HuaRobot_M1_小車類別.Music_Car|block": "小車音樂播放|%index",
   "HuaRobot_M1_小車類別.Line_Sensor|block": "巡線感知器|位置 %direct|偵測到 %value",
   "HuaRobot_M1_小車類別.Avoid_Sensor|block": "避障感測器|偵測到 %value",
   "HuaRobot_M1_小車類別.Servo_Car|block": "小車舵機|編號 %num|角度 %value",
-  "HuaRobot_M1_小型車類別.CarCtrl|block": "小車控制|%index",
+  "HuaRobot_M1_小車類別.CarCtrl|block": "小車控制|%index",
   "HuaRobot_M1_小車類別.CarCtrlSpeed|block": "小車控制|%index|速度 %speed"
  }
