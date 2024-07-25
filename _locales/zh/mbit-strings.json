@@ -15,7 +15,7 @@
   "Hua_M1_感測器類別.IR_Send|block": "紅外線發射|腳位 %pin",
   "Hua_M1_感測器類別.Ultrasonic|block": "超音波|發射腳位 %Trig|接收腳位 %Echo",
  
-  "Hua_M1_音樂類.Buzzer|block": "有源蜂鳴器|腳位 %pin|值 %value",
+  "Hua_M1_音樂類別.Buzzer|block": "有源蜂鳴器|腳位 %pin|值 %value",
  
   "Hua_M1_馬達類別.Fan|block": "風扇|腳位 %pin|速度 %value",
   "Hua_M1_馬達類別.Servo|block": "舵機|腳位 %pin|角度 %value",
