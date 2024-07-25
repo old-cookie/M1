@@ -1,33 +1,33 @@
 {
 
-  "Hua_M1_显示类.LED1|block": "LED燈|腳位 %pin|狀態 %value",
-  "Hua_M1_显示类.LED2|block": "LED燈|腳位 %pin|亮度 %value",
-  "Hua_M1_显示类.BreathLED|block": "呼吸燈|腳位 %pin",
-  "Hua_M1_显示类.RGB|block": "RGB七彩燈|引腳R %pin1|引腳G %pin2|引腳B %pin3|紅色 %value1|綠色 %value2|藍色 %value3",
-  "Hua_M1_显示类.RGB2|block": "RGB七彩燈|接腳R %pin1|接腳G %pin2|接腳B %pin3|顯示 %value",
-
-  "Hua_M1_输入类.TouchPad|block": "觸控開關|腳位 %pin|返回 %value",
-  "Hua_M1_输入类.Rocker|block": "遙桿|VRX %pin1|VRY %pin2|SW %pin3|回傳 %value",
-  "Hua_M1_输入类.Button|block": "按鍵|腳位 %pin|返回 %value",
-  
-  "Hua_M1_传感器类.Voice_Sensor|block": "聲音感應器|腳位 %pin|返回 %value",
-  "Hua_M1_传感器类.IR_Sensor|block": "紅外線感測器|引腳 %pin| |%value|障礙物",
-  "Hua_M1_传感器类.IR_Send|block": "紅外線發射|腳位 %pin",
-  "Hua_M1_传感器类.Ultrasonic|block": "超音波|發射腳位 %Trig|接收腳位 %Echo",
-
-  "Hua_M1_音乐类.Buzzer|block":  "有源蜂鳴器|腳位 %pin|值 %value",
-
-  "Hua_M1_电机类.Fan|block": "風扇|腳位 %pin|速度 %value",
-  "Hua_M1_电机类.Servo|block": "舵機|腳位 %pin|角度 %value",
-
-  "Hua_M1_小车类.RGB_Car_Big|block": "小車RGB探照燈|紅色 %value1|綠色 %value2|藍色 %value3",
-  "Hua_M1_小车类.RGB_Car_Big2|block": "小車RGB探照燈|選擇車燈顏色 %value",
-  "Hua_M1_小车类.Ultrasonic_Car|block": "超音波返回（cm）",
-  "Hua_M1_小车类.RGB_Car_Program|block": "七彩流水燈",
-  "Hua_M1_小车类.Music_Car|block": "小車音樂播放|%index",
-  "Hua_M1_小车类.Line_Sensor|block": "巡線感知器|位置 %direct|偵測到 %value",
-  "Hua_M1_小车类.Avoid_Sensor|block": "避障感測器|偵測到 %value",
-  "Hua_M1_小车类.Servo_Car|block": "小車舵機|編號 %num|角度 %value",
-  "Hua_M1_小车类.CarCtrl|block": "小車控制|%index",
-  "Hua_M1_小车类.CarCtrlSpeed|block": "小車控制|%index|速度 %speed"
-}
+  "Hua_M1_顯示類別.LED1|block": "LED燈|腳位 %pin|狀態 %value",
+  "Hua_M1_顯示類別.LED2|block": "LED燈|腳位 %pin|亮度 %value",
+  "Hua_M1_顯示類別.BreathLED|block": "呼吸燈|腳位 %pin",
+  "Hua_M1_顯示類別.RGB|block": "RGB七彩燈|引腳R %pin1|引腳G %pin2|引腳B %pin3|紅色 %value1|綠色 %value2|藍色 %value3",
+  "Hua_M1_顯示類別.RGB2|block": "RGB七彩燈|接腳R %pin1|接腳G %pin2|接腳B %pin3|顯示 %value",
+ 
+  "Hua_M1_輸入類別.TouchPad|block": "觸控開關|腳位 %pin|返回 %value",
+  "Hua_M1_輸入類別.Rocker|block": "遙桿|VRX %pin1|VRY %pin2|SW %pin3|回傳 %value",
+  "Hua_M1_輸入類別.Button|block": "按鍵|腳位 %pin|返回 %value",
+ 
+  "Hua_M1_感應器類別.Voice_Sensor|block": "聲音感應器|腳位 %pin|返回 %value",
+  "Hua_M1_感測器類別.IR_Sensor|block": "紅外線感測器|引腳 %pin| |%value|障礙物",
+  "Hua_M1_感測器類別.IR_Send|block": "紅外線發射|腳位 %pin",
+  "Hua_M1_感測器類別.Ultrasonic|block": "超音波|發射腳位 %Trig|接收腳位 %Echo",
+ 
+  "Hua_M1_音樂類.Buzzer|block": "有源蜂鳴器|腳位 %pin|值 %value",
+ 
+  "Hua_M1_馬達類別.Fan|block": "風扇|腳位 %pin|速度 %value",
+  "Hua_M1_馬達類別.Servo|block": "舵機|腳位 %pin|角度 %value",
+ 
+  "Hua_M1_小車類別.RGB_Car_Big|block": "小車RGB探照燈|紅色 %value1|綠色 %value2|藍色 %value3",
+  "Hua_M1_小車類別.RGB_Car_Big2|block": "小車RGB探照燈|選擇車燈顏色 %value",
+  "Hua_M1_小車類別.Ultrasonic_Car|block": "超音波返回(cm)",
+  "Hua_M1_小車類別.RGB_Car_Program|block": "七彩流水燈",
+  "Hua_M1_小車類別.Music_Car|block": "小車音樂播放|%index",
+  "Hua_M1_小車類別.Line_Sensor|block": "巡線感知器|位置 %direct|偵測到 %value",
+  "Hua_M1_小車類別.Avoid_Sensor|block": "避障感測器|偵測到 %value",
+  "Hua_M1_小車類別.Servo_Car|block": "小車舵機|編號 %num|角度 %value",
+  "Hua_M1_小車類別.CarCtrl|block": "小車控制|%index",
+  "Hua_M1_小車類別.CarCtrlSpeed|block": "小車控制|%index|速度 %speed"
+ }
